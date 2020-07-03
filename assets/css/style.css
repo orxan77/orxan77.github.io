@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
@@ -505,10 +505,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #af2b33;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #af2b33;
 }
 
 .services .icon i {
@@ -521,7 +521,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #af2b33;
 }
 
 .services .title {
@@ -536,7 +536,7 @@ section {
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: #af2b33;
 }
 
 .services .description {
