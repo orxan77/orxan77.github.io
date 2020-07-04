@@ -261,6 +261,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 768px) {
+  #hero .hero-container {
+    min-width: 300px;
+  }
+  
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
@@ -273,10 +277,6 @@ h1, h2, h3, h4, h5, h6 {
 
   #hero p{
     font-size: 24px;
-  }
-
-  #hero .hero-container {
-    min-width: 300px;
   }
   
 }
